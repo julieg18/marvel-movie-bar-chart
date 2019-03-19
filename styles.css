@@ -1,0 +1,21 @@
+body {
+  background-color: #cc0202;
+  color: white;
+  font-family: 'Righteous', cursive;
+  text-align: center;
+}
+
+rect {
+  fill: white;
+}
+
+#info-box {
+  border: 2px solid white;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+rect:hover {
+  fill: #8f0505;
+  cursor: pointer;
+}
