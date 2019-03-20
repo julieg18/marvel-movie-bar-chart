@@ -19,3 +19,7 @@ rect:hover {
   fill: #8f0505;
   cursor: pointer;
 }
+
+a {
+  color: white;
+}
